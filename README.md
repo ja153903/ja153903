@@ -5,9 +5,9 @@
 * Full-stack Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
 * I (neo)vim
 
-### Currently building stuff with:
+### Currently tinkering with:
 
+* Prisma
+* GraphQL
 * TypeScript
-* Deno
-* Next.js
-* Chakra UI
+
