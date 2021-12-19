@@ -3,11 +3,10 @@
 ### I am a:
 
 * Full-stack Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
-* I (neo)vim, but now playing with JetBrains products.
+* I (n)vim, but these days I'm also using various JetBrains products
 
 ### Currently tinkering with:
 
-* Prisma
-* GraphQL
-* TypeScript
-
+* Python 3.10!
+* Zustand, Immer, and React Query
+* Django and GraphQL
