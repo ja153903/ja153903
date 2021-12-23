@@ -8,5 +8,4 @@
 ### Currently tinkering with:
 
 * Python 3.10!
-* Zustand, Immer, and React Query
-* Django and GraphQL
+* FastAPI and GraphQL
