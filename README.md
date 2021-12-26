@@ -7,5 +7,9 @@
 
 ### Currently tinkering with:
 
-* Python 3.10!
-* FastAPI and GraphQL
+* Next.js, Zustand, React Query, and Tailwind CSS
+* Fastify, GraphQL, and Prisma
+
+### Current Side-project:
+
+* NFT Artist Gallery and Marketplace
