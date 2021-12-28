@@ -3,12 +3,12 @@
 ### I am a:
 
 * Full-stack Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
-* I (n)vim, but these days I'm also using various JetBrains products
+* I (n)vim
 
 ### Currently tinkering with:
 
 * Next.js, Zustand, React Query, and Tailwind CSS
-* Fastify, GraphQL, and Prisma
+* Python 3.10!
 
 ### Current Side-project:
 
