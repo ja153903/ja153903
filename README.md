@@ -7,9 +7,11 @@
 
 ### Currently tinkering with:
 
-* Next.js, Zustand, React Query, and Tailwind CSS
-* Python 3.10!
+* React Native and Expo
+* Prisma, Fastify, Apollo
+* Tailwind CSS
 
 ### Current Side-project:
 
 * NFT Artist Gallery and Marketplace
+* SendIt (Mobile app for keeping track of bouldering problems I tackle in the gym)
