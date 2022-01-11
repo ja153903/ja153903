@@ -7,9 +7,8 @@
 
 ### Currently tinkering with:
 
-* React Native and Expo
 * Prisma, Fastify, Apollo
-* Tailwind CSS
+* Rust
 
 ### Current Side-project:
 
