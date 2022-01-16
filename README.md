@@ -7,10 +7,10 @@
 
 ### Currently tinkering with:
 
-* Remix, MUI v5, Zustand, React-Query
-* Rust, GraphQL
+* Next.js, React Query, Zustand
+* Prisma, Fastify, GraphQL
 
 ### Current Side-project:
 
-* Summit (An NFT Gallery and Marketplace written with React (Remix/MUI/Zustand/React-Query) and Rust)
+* Summit (An NFT Gallery and Marketplace written in TypeScript)
 * SendIt (Mobile app for keeping track of bouldering problems I tackle in the gym)
