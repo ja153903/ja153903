@@ -9,8 +9,8 @@
 
 * Next.js, React Query, Zustand
 * Prisma, Fastify, GraphQL
+* C++ for Competitive Programming
 
 ### Current Side-project:
 
-* Summit (An NFT Gallery and Marketplace written in TypeScript)
-* SendIt (Mobile app for keeping track of bouldering problems I tackle in the gym)
+* Summit (An NFT Gallery and Marketplace written in Full-stack TypeScript)
