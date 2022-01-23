@@ -9,7 +9,6 @@
 
 * Next.js, React Query, Zustand
 * Prisma, Fastify, GraphQL
-* C++ for Competitive Programming
 
 ### Current Side-project:
 
