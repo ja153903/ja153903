@@ -7,8 +7,8 @@
 
 ### Currently tinkering with:
 
-* Next.js, React Query, Zustand
-* Prisma, Fastify, GraphQL
+* Next.js, React Query, GraphQL, and Prisma
+* Rust
 
 ### Current Side-project:
 
