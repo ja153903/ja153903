@@ -7,9 +7,8 @@
 
 ### Currently tinkering with:
 
-* Next.js, React Query, GraphQL, and Prisma
-* Rust
+* Next.js, Prisma, and GraphQL
 
 ### Current Side-project:
 
-* Summit (An NFT Gallery and Marketplace written in Full-stack TypeScript)
+* Climbing Analytics Tool (Full-stack TypeScript with Next.js, Prisma, and GraphQL)
