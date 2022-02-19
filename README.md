@@ -7,7 +7,7 @@
 
 ### Currently tinkering with:
 
-* Next.js, Prisma, and GraphQL
+* Kotlin
 
 ### Current Side-project:
 
