@@ -7,7 +7,7 @@
 
 ### Currently tinkering with:
 
-* Kotlin
+* GraphQL
 
 ### Current Side-project:
 
