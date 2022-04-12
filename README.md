@@ -3,12 +3,12 @@
 ### I am a:
 
 * Full-stack Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
-* I (n)vim
+* Passionate about UI development
 
 ### Currently tinkering with:
 
-* GraphQL
+* Remix and MDX
 
 ### Current Side-project:
 
-* Climbing Analytics Tool (Full-stack TypeScript with Next.js, Prisma, and GraphQL)
+* Personal website rebuild in Remix
