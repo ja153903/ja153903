@@ -7,7 +7,9 @@
 
 ### Currently tinkering with:
 
-* Remix, React Query, GraphQL
+* Remix
+* GraphQL
+* Prisma
 
 ### Current Side-project:
 
