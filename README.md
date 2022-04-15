@@ -7,8 +7,9 @@
 
 ### Currently tinkering with:
 
-* Remix and MDX
+* Remix, React Query, GraphQL
 
 ### Current Side-project:
 
 * Personal website rebuild in Remix
+* Climbing Analytics Tool (Full-stack TypeScript)
