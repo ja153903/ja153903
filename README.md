@@ -7,11 +7,10 @@
 
 ### Currently tinkering with:
 
-* Remix
-* GraphQL
-* Prisma
+* Next.js and react-query
+* Fastify, Prisma, GraphQL
 
 ### Current Side-project:
 
 * Personal website rebuild in Remix
-* Climbing Analytics Tool (Full-stack TypeScript)
+* Climbing Social Media (Full-stack TypeScript with React and Fastify)
