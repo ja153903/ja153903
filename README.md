@@ -3,14 +3,13 @@
 ### I am a:
 
 * Full-stack Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
-* Passionate about UI development
 
 ### Currently tinkering with:
 
-* Next.js and react-query
-* Fastify, Prisma, GraphQL
+* Kotlin, Java, and Spring Boot
+* GraphQL
 
 ### Current Side-project:
 
 * Personal website rebuild in Remix
-* Climbing Social Media (Full-stack TypeScript with React and Fastify)
+* Climbing Social Media (Next.js with TypeScript on the front-end and Spring Boot with Kotlin on the back-end)
