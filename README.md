@@ -6,10 +6,9 @@
 
 ### Currently tinkering with:
 
-* Kotlin, Java, and Spring Boot
-* GraphQL
+* Python
 
 ### Current Side-project:
 
 * Personal website rebuild in Remix
-* Climbing Social Media (Next.js with TypeScript on the front-end and Spring Boot with Kotlin on the back-end)
+* Climbing Social Media (Next.js with TypeScript on the front-end and FastAPI backend)
