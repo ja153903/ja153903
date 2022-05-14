@@ -2,7 +2,7 @@
 
 ### I am a:
 
-* Full-stack Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
+* Senior Software Engineer / Tech Lead @ BentoBox ([we're hiring](https://getbento.com/careers/))
 
 ### Currently tinkering with:
 
