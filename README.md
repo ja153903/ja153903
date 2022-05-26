@@ -6,9 +6,8 @@
 
 ### Currently tinkering with:
 
-* Python
+* Rust
 
 ### Current Side-project:
 
-* Personal website rebuild in Remix
-* Climbing Social Media (Next.js with TypeScript on the front-end and FastAPI backend)
+* Rust Web Server with Axum and AWS S3 for my photography portfolio (adding photo gallery to my personal website)
