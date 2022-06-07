@@ -6,8 +6,8 @@
 
 ### Currently tinkering with:
 
-* Rust
+* TypeScript and Prisma
 
 ### Current Side-project:
 
-* Rust Web Server with Axum and AWS S3 for my photography portfolio (adding photo gallery to my personal website)
+* Working on Blog and Photography updates on my personal site
