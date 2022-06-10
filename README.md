@@ -6,8 +6,9 @@
 
 ### Currently tinkering with:
 
-* TypeScript and Prisma
+* Rust
 
 ### Current Side-project:
 
 * Working on Blog and Photography updates on my personal site
+* Competitive Programming (LeetCode) in Rust
