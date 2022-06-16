@@ -6,9 +6,8 @@
 
 ### Currently tinkering with:
 
-* Rust
+* Python
 
 ### Current Side-project:
 
 * Working on Blog and Photography updates on my personal site
-* Competitive Programming (LeetCode) in Rust
