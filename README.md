@@ -6,9 +6,9 @@
 
 ### Currently tinkering with:
 
-* Rust
+* JavaScript
 
 ### Current Side-project:
 
 * Working on Blog and Photography updates on my personal site
-* Adjusting to Competitive Programming in Rust
+
