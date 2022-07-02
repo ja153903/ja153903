@@ -6,9 +6,8 @@
 
 ### Technologies I use on the regular
 
-* JavaScript/TypeScript
 * Python
-* Rust
+* JavaScript/TypeScript
 * Lua
 
 ### Currently exploring
