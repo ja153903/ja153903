@@ -16,6 +16,3 @@
 * [NvChad](https://github.com/NvChad/NvChad)
 * [zx](https://github.com/google/zx)
 
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja153903)](https://github.com/ja153903/github-readme-stats)
