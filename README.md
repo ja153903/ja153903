@@ -15,3 +15,7 @@
 * [zustand](https://github.com/pmndrs/zustand)
 * [NvChad](https://github.com/NvChad/NvChad)
 * [zx](https://github.com/google/zx)
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
