@@ -6,13 +6,13 @@
 
 ### Technologies I use on the regular
 
-* JavaScript/TypeScript
+* TypeScript
+* Python
+* Rust
 * Lua
 
 ### Currently exploring
 
-* [react-query](https://react-query.tanstack.com/)
-* [zustand](https://github.com/pmndrs/zustand)
-* [NvChad](https://github.com/NvChad/NvChad)
-* [zx](https://github.com/google/zx)
+* [tRPC](https://trpc.io/)
+* [NextAuth.js](https://next-auth.js.org/)
 
