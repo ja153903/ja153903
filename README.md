@@ -7,11 +7,9 @@
 ## Technologies I use on the regular
 
 * TypeScript
-* Python
-* Rust
-* Lua
 
 ## Currently exploring
 
-* [tRPC](https://trpc.io/)
-* [NextAuth.js](https://next-auth.js.org/)
+* @tanstack/react-query
+* tRPC
+
