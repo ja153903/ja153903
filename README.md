@@ -2,7 +2,7 @@
 
 ## I am
 
-- a Senior Software Engineer @ BentoBox ([we're hiring](https://getbento.com/careers/))
+- a Senior Software Engineer @ BentoBox
 
 ## Technologies I use on the regular
 
