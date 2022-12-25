@@ -3,13 +3,6 @@
 ## I am
 
 - a Senior Software Engineer @ BentoBox
+- TypeScript Enthusiast
+- Passionate about Dev tools
 
-## Technologies I use on the regular
-
-- TypeScript
-- Rust
-
-## Currently exploring
-
-- @tanstack/react-query
-- tRPC
