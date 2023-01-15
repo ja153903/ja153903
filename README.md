@@ -2,7 +2,7 @@
 
 ## I am
 
-- a Senior Software Engineer @ BentoBox
-- TypeScript Enthusiast
-- Passionate about Dev tools
+- a Senior Engineer @ BentoBox
+- a (neo)vim enthusiast
+- trying to get better at competitive programming
 
