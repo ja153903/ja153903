@@ -1,8 +1,8 @@
 # Jaime Abbariao
 
-## I am
+## Things about me
 
-- a Senior Engineer @ BentoBox
-- a (neo)vim enthusiast
-- trying to get better at competitive programming
+- I am a Senior Engineer @ BentoBox
+- I unironically like JavaScript
+- I am trying to get better at competitive programming
 
