@@ -7,3 +7,14 @@
 - I [(neo)vim](https://github.com/ja153903/jvim)
 - I'll always daydream about retrofitting Rust into any project
 
+## Technologies I use frequently
+
+- TypeScript/JavaScript
+- Rust
+- Python
+
+## Currently learning
+
+- [Sveltekit](https://kit.svelte.dev/)
+- [Astro](https://astro.build/)
+- [Fresh](https://fresh.deno.dev/)
