@@ -7,7 +7,7 @@
 
 ## Technologies I use frequently
 
-- Python
 - TypeScript
+- Python
 - Rust
 
