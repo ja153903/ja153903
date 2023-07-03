@@ -5,6 +5,6 @@
 - I am a Senior Engineer @ [BentoBox](https://getbento.com)
 - I use [(neo)vim](https://github.com/ja153903/jvim)
 
-## My Current Hot Take
+## My Current Situation
 
-JavaScript with JSDoc works just as well as TypeScript
+I bought a 1200-page book on Haskell
