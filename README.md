@@ -7,4 +7,4 @@
 
 ## My Current Situation
 
-I bought a 1200-page book on Haskell
+Going to commit to Svelte for bit.
