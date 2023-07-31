@@ -7,4 +7,4 @@
 
 ## My Current Situation
 
-Going to commit to Svelte for bit.
+Rust (again)
