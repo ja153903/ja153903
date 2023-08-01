@@ -7,4 +7,4 @@
 
 ## My Current Situation
 
-Rust (again)
+Sveltekit + Shopping Carts
