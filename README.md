@@ -6,4 +6,4 @@
 
 ## My Current Situation
 
-Java + Kotlin + Android
+Java + Kotlin + Kotlin Multiplatform
