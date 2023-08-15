@@ -6,5 +6,5 @@
 
 ## My Current Situation
 
-- Android w/ Kotlin
+- Android with Kotlin
 - Server-side stuff with Java
