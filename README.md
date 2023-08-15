@@ -6,4 +6,5 @@
 
 ## My Current Situation
 
-Java + Kotlin + Kotlin Multiplatform
+- Android w/ Kotlin
+- Server-side stuff with Java
