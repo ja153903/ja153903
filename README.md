@@ -2,8 +2,9 @@
 
 ## Who am I?
 
-- I am a Senior Engineer @ [BentoBox](https://getbento.com)
+- I am a Senior Full-stack Engineer and TypeScript Evangelist @ [BentoBox](https://getbento.com)
+- I've started leaning towards being more of a front-end engineer, but not there just yet.
 
-## My Current Situation
+## What am I spending my time on lately?
 
-- Front-end stuff with Sveltekit
+- Learning Haskell for this year's [AoC](https://adventofcode.com/)
