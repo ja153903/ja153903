@@ -7,4 +7,4 @@
 
 ## What am I spending my time on lately?
 
-- Learning Haskell for this year's [AoC](https://adventofcode.com/)
+- Learning to be friends with Python again
