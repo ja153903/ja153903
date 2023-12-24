@@ -4,4 +4,4 @@
 
 - I am a Senior Full-stack Engineer @ [BentoBox](https://getbento.com)
 - I like building UI
-- Checking out OCaml because Twitter says so
+- Back to checking out Haskell
