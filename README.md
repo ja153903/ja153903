@@ -14,5 +14,3 @@
 - 🔧 &nbsp; NeoVim | Git | Alacritty | Zellij
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja153903&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ja153903/github-readme-stats)
-
-⭐️ From [ja153903](https://github.com/ja153903)
