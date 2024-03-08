@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m currently working on deepening my TypeScript knowledge via [TypeHero](typehero.dev).
 - 💼 &nbsp; Working as a full-stack engineer with a strong interest in UI development.
 - 🎓 &nbsp; Studied Math (BA) and Computer Science (MS) not too long ago.
-- 🌱 &nbsp; Learning Elixir to spice up my life.
+- 🌱 &nbsp; Doing some stuff with Bun currently.
 
 <h3>🛠 Tech Stack</h3>
 
