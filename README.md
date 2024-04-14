@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on deepening my TypeScript knowledge via [TypeHero](typehero.dev).
-- 💼 &nbsp; Working as a full-stack engineer with a strong interest in UI development.
+- 🔭 &nbsp; Currently working as a software engineer at [Figma](https://www.figma.com/).
 - 🎓 &nbsp; Studied Math (BA) and Computer Science (MS) not too long ago.
 - 🌱 &nbsp; Doing some stuff with Bun currently.
 
