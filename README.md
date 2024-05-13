@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Currently working as a software engineer at [Figma](https://www.figma.com/).
 - 🎓 &nbsp; Studied Math (BA) and Computer Science (MS) not too long ago.
-- 🌱 &nbsp; Studying up on my C++ again.
+- 🌱 &nbsp; Diving into Haskell again.
 
 <h3>🛠 Tech Stack</h3>
 
