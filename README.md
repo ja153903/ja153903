@@ -4,11 +4,11 @@
 
 - 🔭 &nbsp; Currently working as a software engineer at [Figma](https://www.figma.com/).
 - 🎓 &nbsp; Studied Math (BA) and Computer Science (MS) not too long ago.
-- 🌱 &nbsp; Doing some stuff with Bun currently.
+- 🌱 &nbsp; I'm in my OCaml era now.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | JavaScript | Python | Rust | Java 
+- 💻 &nbsp; TypeScript | JavaScript | Python | Rust | Java
 - 🌐 &nbsp; React | Svelte | Node | Django | Spring
 - 🔧 &nbsp; Neovim | Wezterm | Git
 
