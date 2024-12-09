@@ -7,8 +7,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | JavaScript | Rust | Python
-- 🌐 &nbsp; React | Svelte | Node | Django
-- 🔧 &nbsp; Neovim | Wezterm | Git
+- 💻 &nbsp; TypeScript | Python | Rust
+- 🌐 &nbsp; React | Svelte
+- 🔧 &nbsp; Neovim | Alacritty | Fish | Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja153903&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ja153903/github-readme-stats)
