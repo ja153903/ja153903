@@ -2,13 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently working as a software engineer at [Figma](https://www.figma.com/).
-- 🎓 &nbsp; Studied Math (BA) and Computer Science (MS) not too long ago.
+- 🔭 &nbsp; AI Growth at [Figma](https://www.figma.com/); Math and Computer Science lecturer at Baruch College
+- 🎓 &nbsp; Studied Math and Computer Science many moons ago
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | Python | Rust
-- 🌐 &nbsp; React | Svelte
-- 🔧 &nbsp; Neovim | Ghostty | Fish | Git
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja153903&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ja153903/github-readme-stats)
+- 💻 &nbsp; TypeScript | Rust
+- 🔧 &nbsp; Cursor | Claude
